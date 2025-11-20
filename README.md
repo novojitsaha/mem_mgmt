@@ -1,2 +1,2 @@
-# mem_mgmt
-Learning memory management in C by building a garbage collector.
+# Mastering C++
+Learning to become a systems level programmer by solving DSA problems and building systems level components.
